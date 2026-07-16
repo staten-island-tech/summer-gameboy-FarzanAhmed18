@@ -9,9 +9,9 @@ Start:
     LD B, 5
     LD C, 3
 
-    ADD A, A
-    ADD A, A
-    ADD A, A
+    ADD B, B
+    ADD B, B
+    ADD B, B
 
 Stop:
     JR Stop
